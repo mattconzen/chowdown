@@ -1,13 +1,12 @@
 # Site settings
-title: Chowdown
-email: your-email@domain.com
-description: The plain text recipe database for hackers
+title: Recipes 
+email: matt@mattconzen.com
+description: recipes 
 baseurl: "https://recipes.mattconzen.com"
 language: "en"
 lang_direction: "ltr"
 color: "#007FFF"
-twitter_username: clarklab
-github_username:  clarklab
+github_username: mattconzen 
 
 # Build settings
 markdown: kramdown
